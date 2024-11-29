@@ -37,5 +37,6 @@ Make sure to include the following details:
 
 Here are some of my texture packs you can explore:
 
-    3D Panda Totem – Replace the Totem of Undying with a cute 3D panda.
-    3D Bamboo Mace - Fully 3D-modeled bamboo weapon, adding a unique and natural touch to Minecraft.
+    realess's 3D Panda Totem – Replace the Totem of Undying with a cute Panda and add charm to your Minecraft experience.
+    realess's 3D Bamboo Mace – The Bamboo Mace adds a custom modeled Mace to Minecraft.
+    realess's Bamboo Trident – The Bamboo Trident transforms the traditional trident in Minecraft with stunning bamboo textures.
