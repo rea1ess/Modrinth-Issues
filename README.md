@@ -39,4 +39,4 @@ Here are some of my texture packs you can explore:
 
     realess's 3D Panda Totem – Replace the Totem of Undying with a cute Panda and add charm to your Minecraft experience.
     realess's 3D Bamboo Mace – The Bamboo Mace adds a custom modeled Mace to Minecraft.
-    realess's Bamboo Trident – The Bamboo Trident transforms the traditional trident in Minecraft with stunning bamboo textures.
+    realess's Bamboo Trident – Transforms the traditional trident in Minecraft with stunning bamboo textures.
